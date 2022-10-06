@@ -5,3 +5,5 @@ git branch --set-upstream-to=origin/main main
 git fetch
 # git status to know # of commits behind
 git status
+
+# git pull is = git fetch + git merge
