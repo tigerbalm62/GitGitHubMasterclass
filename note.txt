@@ -1,2 +1,7 @@
 git branch --set-upstream-to=origin/main main
 # then use git pull no need to specify the branch 
+
+# git fetch to sync with remote but not pull changes
+git fetch
+# git status to know # of commits behind
+git status
