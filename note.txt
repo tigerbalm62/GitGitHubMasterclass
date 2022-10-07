@@ -9,3 +9,17 @@ git status
 # git pull is = git fetch + git merge
 # git remote -> check remote
 # git log -> check commit history
+
+** GitHub fork -> create a repo on your account
+** then git clone 
+** then make changes
+
+# git show <id> - > show detail of the change
+e.g. git show HEAD -> show latest change
+     git show HEAD~3 -> show the 3rd prior to latest change
+
+# git diff HEAD~1 HEAD~3
+
+# git annotate <file> -> change history on a file
+
+# vscode extension - gitLens
