@@ -23,3 +23,18 @@ e.g. git show HEAD -> show latest change
 # git annotate <file> -> change history on a file
 
 # vscode extension - gitLens
+
+
+## undo changing
+#  made change before staged
+# git checkout -- <file>
+#
+# if already staged
+# use git restore --staged <file> to unstage
+# git checkout -- <file> to revert staged change
+
+# get reset HEAD <file> -> back out the change are unstaged
+
+# git add . -> refer the everything under current dir
+# get reset HEAD .
+# get checkout -- . 
