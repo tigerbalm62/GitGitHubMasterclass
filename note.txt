@@ -7,3 +7,5 @@ git fetch
 git status
 
 # git pull is = git fetch + git merge
+# git remote -> check remote
+# git log -> check commit history
