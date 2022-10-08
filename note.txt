@@ -38,3 +38,15 @@ e.g. git show HEAD -> show latest change
 # git add . -> refer the everything under current dir
 # get reset HEAD .
 # get checkout -- . 
+
+# create branch
+# git branch <branch>
+# switch branch
+# git checkout <branch>
+# e.g. git branch dev
+#      git checkout dev
+
+## or create branch and checkout branch
+# git checkout -b <branch>
+# e.g. git checkout -b add-bootstrap => this create/checkout branch add-bootstrap under dev
+
